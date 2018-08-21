@@ -1,0 +1,13 @@
+.idea/
+*.iml
+target/
+rebel.xml
+*.log
+dump.rdb
+/baobab-admin/src/main/resources/filter.properties.debug
+/baobab-monitor/src/main/resources/filter.properties.debug
+*.class
+*.classpath
+*.settings
+*.project
+.myeclipse
